@@ -1,7 +1,6 @@
-cmake_minimum_required(VERSION 3.9)
-project(design---observer-idk)
+cmake_minimum_required ( VERSIÓN 3.9)
+proyecto (sonar_scanner_ejemplo)
 
-set(CMAKE_CXX_STANDARD 17)
+establecer (CMAKE_CXX_STANDARD 17)
 
-add_executable(design---observer-idk src/main.cpp)
-
+add_executable (sonar_scanner_example src/main.cpp)
